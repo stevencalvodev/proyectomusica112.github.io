@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: chartreuse;
+    border-bottom: 2px solid #ccc;
+}
+
+.titulop {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+.estudiantes {
+    position: relative;
+    position: absolute;
+    top: 110px;
+    right: 0px;
+    align-items: center;
+}
+
+.lenguajes {
+    position: relative;
+    position: absolute;
+    top: 129px;
+    right: 0px;
+    align-items: center;
+}
+
+.materiales {
+    position: relative;
+    position: absolute;
+    top: 146px;
+    right: 0px;
+    align-items: center;
+}
+
+.seccion {
+    position: relative;
+    position: absolute;
+    top: 161px;
+    right: 0px;
+    align-items: center;
+}
+
+.Intruduccion {
+    position: absolute;
+    font-size: 30px;
+    top: 300px;
+}
+.justificacion {
+    position: absolute;
+    font-size: 30px;
+    top: 500px;
+}
